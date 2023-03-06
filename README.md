@@ -2,7 +2,7 @@
 
 Back-end developer professional certificate
 
-<h3 align="center">Links to Python tutorials and documents</h3>
+<h3 align="left">Links to Python tutorials and documents</h3>
 
 - [Python Tutorials](https://docs.python.org/3.4/tutorial/index.html)
 
